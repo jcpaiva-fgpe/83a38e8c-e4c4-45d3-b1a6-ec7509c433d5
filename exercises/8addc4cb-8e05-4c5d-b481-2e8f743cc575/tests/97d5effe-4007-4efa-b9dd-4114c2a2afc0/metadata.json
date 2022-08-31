@@ -1,1 +1,1 @@
-{"id":"97d5effe-4007-4efa-b9dd-4114c2a2afc0","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"97d5effe-4007-4efa-b9dd-4114c2a2afc0","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You should use four subqueries into ().","weight":"0"}]}
