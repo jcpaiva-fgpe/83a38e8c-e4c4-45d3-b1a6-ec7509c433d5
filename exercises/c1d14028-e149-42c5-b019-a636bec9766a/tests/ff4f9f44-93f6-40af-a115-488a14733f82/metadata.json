@@ -1,1 +1,1 @@
-{"id":"ff4f9f44-93f6-40af-a115-488a14733f82","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"ff4f9f44-93f6-40af-a115-488a14733f82","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Pay attention to NULL values.","weight":"0"}]}
