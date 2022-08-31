@@ -1,1 +1,1 @@
-{"id":"4fa19fcf-b74f-4256-a9fb-78c2a852b05f","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"4fa19fcf-b74f-4256-a9fb-78c2a852b05f","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You must provide values only for those columns not NULL.","weight":"0"}]}
