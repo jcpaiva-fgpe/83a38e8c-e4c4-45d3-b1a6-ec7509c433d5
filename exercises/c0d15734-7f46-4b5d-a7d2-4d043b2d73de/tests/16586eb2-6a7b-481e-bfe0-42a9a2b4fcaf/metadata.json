@@ -1,1 +1,1 @@
-{"id":"16586eb2-6a7b-481e-bfe0-42a9a2b4fcaf","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"16586eb2-6a7b-481e-bfe0-42a9a2b4fcaf","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You should use several UPDATE and DELETE queries and subqueries.","weight":"0"}]}
