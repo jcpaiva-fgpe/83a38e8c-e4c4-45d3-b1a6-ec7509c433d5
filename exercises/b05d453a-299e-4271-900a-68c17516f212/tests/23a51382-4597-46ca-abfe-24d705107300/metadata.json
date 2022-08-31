@@ -1,1 +1,1 @@
-{"id":"23a51382-4597-46ca-abfe-24d705107300","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"23a51382-4597-46ca-abfe-24d705107300","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"JOB_ID can't be NULL.","weight":"0"}]}
