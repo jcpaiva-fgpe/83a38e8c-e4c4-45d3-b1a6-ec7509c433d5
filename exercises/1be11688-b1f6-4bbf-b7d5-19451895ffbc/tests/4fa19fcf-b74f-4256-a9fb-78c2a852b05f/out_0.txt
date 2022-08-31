@@ -1,1 +1,4 @@
-<table><tbody><tr><td>&nbsp;</td></tr></tbody></table>
+ location_id | street_address  | postal_code |   city    | state_province | country_id 
+-------------+-----------------+-------------+-----------+----------------+------------
+        3300 | C/Carlos III, 3 |             | Cartagena |                | 
+(1 row)
