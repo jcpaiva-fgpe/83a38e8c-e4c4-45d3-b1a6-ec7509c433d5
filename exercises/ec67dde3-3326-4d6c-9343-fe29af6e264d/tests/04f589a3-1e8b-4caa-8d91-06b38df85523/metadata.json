@@ -1,1 +1,1 @@
-{"id":"04f589a3-1e8b-4caa-8d91-06b38df85523","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"04f589a3-1e8b-4caa-8d91-06b38df85523","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Use = to assign NULL.","weight":"0"}]}
