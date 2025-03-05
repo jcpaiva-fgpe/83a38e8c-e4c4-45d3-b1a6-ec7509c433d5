@@ -14,7 +14,7 @@
 <p>Eso quiere decir que existen direcciones relacionadas con ese pa&iacute;s, por lo que no se permite el borrado de dicho pa&iacute;s.</p>
 <p>Para poder eliminar cualquier pa&iacute;s que tenga una direcci&oacute;n relacionada, en el caso de que fuera estrictamente necesario, primero deber&iacute;amos eliminar las referencias de las direcciones a ese pa&iacute;s:</p>
 <blockquote>
-<pre><code>BEGIN;<br /><br /><strong>UPDATE locations<br />SET COUNTRY_ID = NULL<br />WHERE COUNTRY_ID = &#39;IT&#39;;</strong><br /><br /><br /><strong>DELETE FROM countries<br />WHERE COUNTRY_ID = &#39;IT&#39;;</strong><br /><br /><br />ROLLBACK;
+<pre><code>BEGIN;<br /><br /><strong>UPDATE locations<br />SET COUNTRY_ID = NULL<br />WHERE COUNTRY_ID = &#39;IT&#39;;</strong><br /><br />-- UPDATE 2<br /><strong>DELETE FROM countries<br />WHERE COUNTRY_ID = &#39;IT&#39;;</strong><br /><br />-- DELETE 1<br />ROLLBACK;
 </code></pre>
 </blockquote>
 <p>Podemos comprobar como, al haber eliminado las referencias a Italia, se nos ha permitido borrar dicho pa&iacute;s.</p>
